@@ -1,3 +1,4 @@
+// Create web server
 // Create a web server 
 // Create a route for GET /comments
 // Read the content of comments.json and send it back as a response
